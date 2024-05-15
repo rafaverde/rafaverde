@@ -17,9 +17,9 @@ I'm Rafael Valverde, a passionate designer with over 25 years of experience in t
 
 ## Connect with Me
 
-- 📫 Feel free to connect with me on [LikendInd](["https://www.linkedin.com/"](https://www.linkedin.com/in/rafavalverde/)) to learn more about my professional journey.
-- 🚀 Check out my RocketSeat profile: [RocketID]("https://app.rocketseat.com.br/rocketid/rafaverde")
-- 🎨 Explore some of my design and advertising work on [Behance]("https://www.behance.net/rafaelvalverde").
+- 📫 Feel free to connect with me on [LikendIn](https://www.linkedin.com/in/rafavalverde) to learn more about my professional journey.
+- 🚀 Check out my RocketSeat profile: [RocketID](https://app.rocketseat.com.br/rocketid/rafaverde)
+- 🎨 Explore some of my design and advertising work on [Behance](https://www.behance.net/rafaelvalverde).
 
 
 ### Thanks for stopping by! Let's create amazing things together. 🌟
