@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Rafael Valverde, a passionate designer and developer with over 25 years of experience in the field. I've been working in advertising and graphic design since 1996, and my journey has led me to explore the exciting world of technology and programming.
+I'm Rafael Valverde, a passionate designer with over 25 years of experience in the field. I've been working in advertising and graphic design since 1996, and my journey has led me to explore the exciting world of technology and programming.
 
 ## About Me
 
-- 🎨 As a designer, I specialize in creating visually appealing layouts using tools like Figma.
+- 🎨 As a designer, I specialize in creating visually appealing layouts using tools like Photoshop, Ilustrator, InDesign, XD and Figma.
 - 💻 As a developer, I'm currently a Full Stack student at RocketSeat, diving deep into technologies like HTML, CSS, JavaScript, React, and Node.js.
 - 🌟 My daily routine involves honing my programming skills, learning from my leadership experience, and collaborating with tech teams to enhance my expertise.
 - 🚀 My focus is on mastering React and Node.js to build robust web applications.
@@ -17,8 +17,9 @@ I'm Rafael Valverde, a passionate designer and developer with over 25 years of e
 
 ## Connect with Me
 
-- 📫 Feel free to connect with me on LinkedIn to learn more about my professional journey.
-- 🚀 Check out my RocketSeat profile: RocketID
-- 🎨 Explore some of my design and advertising work on Behance.
+- 📫 Feel free to connect with me on [LikendInd](["https://www.linkedin.com/"](https://www.linkedin.com/in/rafavalverde/)) to learn more about my professional journey.
+- 🚀 Check out my RocketSeat profile: [RocketID]("https://app.rocketseat.com.br/rocketid/rafaverde")
+- 🎨 Explore some of my design and advertising work on [Behance]("https://www.behance.net/rafaelvalverde").
 
-Thanks for stopping by! Let's create amazing things together. 🌟
+
+### Thanks for stopping by! Let's create amazing things together. 🌟
