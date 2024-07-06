@@ -13,7 +13,7 @@ I'm Rafael Valverde, a passionate designer with over 25 years of experience in t
 
 - 👔 I'm a co-founder and Creative Lead at an advertising agency, where I manage a team of 10 talented individuals.
 - 🌐 I create websites using WordPress for our clients, ensuring they have an online presence that stands out.
-- 📜 I also write small JavaScript scripts to enhance the functionality of these websites.
+- 📜 I also write small JavaScript scripts to improve the functionality of these sites, as well as create and do styling with CSS and HTML.
 
 ## Connect with Me
 
