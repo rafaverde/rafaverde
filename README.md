@@ -5,7 +5,7 @@ I'm Rafael Valverde, a passionate designer with over 25 years of experience in t
 ## About Me
 
 - 🎨 As a designer, I specialize in creating visually appealing layouts using tools like Photoshop, Ilustrator, InDesign, XD and Figma.
-- 💻 As a developer, I'm currently a Full Stack student at RocketSeat, diving deep into technologies like HTML, CSS, JavaScript, React, and Node.js.
+- 💻 As a developer, I'm currently a Full Stack student at RocketSeat, diving deep into technologies like HTML, CSS, JavaScript, React, and Node.js. In 2025 I started my undergraduate studies in the Software Engineering course at Descomplica College and graduated in the second semester of 2028.
 - 🌟 My daily routine involves honing my programming skills, learning from my leadership experience, and collaborating with tech teams to enhance my expertise.
 - 🚀 My focus is on mastering React and Node.js to build robust web applications.
 
