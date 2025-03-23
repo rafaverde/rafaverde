@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Rafael Valverde, a passionate designer with over 25 years of experience in the field. I've been working in advertising and graphic design since 1996, and my journey has led me to explore the exciting world of technology and programming.
+I'm Rafael Valverde, a passionate designer with over 25 years of experience in the field. I've been working in advertising and graphic design since 1996, and my journey has led me to explore the exciting world of technology and programming. I am currently taking courses to specialize in technologies such as React.js and Next.js in addition to studying for a degree in Software Engineering.
 
 ## About Me
 
